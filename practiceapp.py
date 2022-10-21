@@ -2,7 +2,7 @@ from email.policy import default
 from multiprocessing.sharedctypes import Value
 import this
 import streamlit as st
-import matplotlib
+# import matplotlib
 import pandas as pd
 import numpy as np
 import time as time
